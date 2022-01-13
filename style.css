@@ -1,0 +1,65 @@
+body{
+    background-color: #5ea3f1;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 5px;
+}
+.container{
+    text-align: center;
+}
+.phone{
+    display: inline-block;
+    background-color: #ffff;
+    padding: 10px;
+    box-shadow: 0px 0px 7px rgb(31, 31, 31) ;
+    padding: 1em 2em;
+}
+input{
+    color: #000;
+}
+.out-screen{
+    margin: 0.2em 0em;
+    font-size: 20px;
+    width: 190px;
+    height: 40px;
+    border: none;
+    outline: none;
+    color: black;
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+button{
+    font-size: 20px;
+    width: 55px;
+    height: 45px;
+    outline: none;
+    border: none;
+    margin: 1px;
+    background-color: #ffff;
+}
+button:active {
+    background-color: rgba(226, 226, 226, 0.623);
+}
+.icon{
+    width: 16px;
+}
+.dial-icon{
+    font-size: 20px;
+    width: 70px;
+    height: 30px;
+    outline: none;
+    border: none;
+    margin: 1px;
+    border-radius: 3px;
+    background-color: #64935f;
+}
+.dial-ic{
+    filter: invert(100);
+}
+.dial-icon:active {
+    background-color: #64935f;
+    opacity: 0.9;
+}
