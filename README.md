@@ -1,5 +1,5 @@
 # phonedialer
-<a href="https://github.com/vishwasracharya/phonedialer/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/phonedialer?color=blue"></a>
+<a href="https://github.com/vishwasracharya/phonedialer/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/phonedialer?color=blue"></a>
 <a href="https://github.com/vishwasracharya/phonedialer/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/phonedialer?color=orange"></a>
 
 Another website project which has a Phone Dialer, I made it during the learning process of HTML, CSS & JavaScript.
